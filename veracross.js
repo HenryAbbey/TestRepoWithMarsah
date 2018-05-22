@@ -51,7 +51,7 @@ var async = require("async"),
             async.doWhilst(
                 (cb) => { 
                     self.logProgress(entity, countRemaining, ++page, totalPages)
-                    self.request(entity + ".json?" + (options ? options + "&" : "") + (lastModified ? "updated_after=" + lastModified.substring(0, 10) + "&" : "") + "page=" + page, (err, response, result) => {
+                    self.request(entity + ".json?" + (options ? options + "&" : "test") + (lastModified ? "updated_after=" + lastModified.substring(0, 10) + "&" : "") + "page=" + page, (err, response, result) => {
                         if (page == 1) self.logProgress(entity, countRemaining = response.headers["x-total-count"], page, totalPages = Math.ceil(response.headers["x-total-count"]/100))
                         if (err) return cb(err)
                         async.eachSeries(
