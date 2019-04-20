@@ -1,0 +1,38 @@
+# Catalog
+
+###Team Name: Team_Henry
+
+###Project Name: NutriFHIR (Bringing-dietary-indicators-to-the-EHR)
+
+###Git hub link: https://github.gatech.edu/orgs/gt-cs6440-hit-spring2019/teams/henry/repositories
+
+
+
+| Team Member| Role |
+| :------------- | :------------- |
+| Alex Tubman   | Developer|
+| Carolyn Wine  | Design |
+| Felipe Giuste  | Developer |
+| Henry Abbey  | Developer and QA |
+| Justin Lewis  | Developer |
+| Paul Davis   | Project Manager |
+
+**List of Catalog items in final delivery**
+
+### Special Instructions
+- https://docs.google.com/document/d/1qjfSoGBtX9OQCOOYt641IhM8zF_4QtyfnlM8grGTpbg/edit
+
+### User Manual
+- https://docs.google.com/document/d/14zWt-2NmVsqAGbs-OVjSrxjjLbAoNwSS8iarHVrTG9c/edit#heading=h.asadr7tskj
+
+### Final Gantt Chart
+- link to be provided
+
+### Research
+- https://drive.google.com/drive/u/1/folders/1-hb5R8MTUxhR5j_dklyGrIXnu4R6DMs1
+
+### Other files
+- link to the extra files
+
+### Link to NutriFHIR in HDAP
+- https://cs6440-s19-prj057.apps.hdap.gatech.edu/dashboard
