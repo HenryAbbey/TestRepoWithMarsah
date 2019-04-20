@@ -1,10 +1,10 @@
 # Catalog
 
-###Team Name: Team_Henry
+### Team Name: Team_Henry
 
-###Project Name: NutriFHIR (Bringing-dietary-indicators-to-the-EHR)
+### Project Name: NutriFHIR (Bringing-dietary-indicators-to-the-EHR)
 
-###Git hub link: https://github.gatech.edu/orgs/gt-cs6440-hit-spring2019/teams/henry/repositories
+### Git hub link: https://github.gatech.edu/orgs/gt-cs6440-hit-spring2019/teams/henry/repositories
 
 
 
