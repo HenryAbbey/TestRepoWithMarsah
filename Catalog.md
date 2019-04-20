@@ -4,35 +4,45 @@
 
 ### Project Name: NutriFHIR (Bringing-dietary-indicators-to-the-EHR)
 
-### Git hub link: https://github.gatech.edu/orgs/gt-cs6440-hit-spring2019/teams/henry/repositories
+### Github link: https://github.gatech.edu/orgs/gt-cs6440-hit-spring2019/teams/henry/repositories
 
 
-
-| Team Member| Role |
-| :------------- | :------------- |
-| Alex Tubman   | Developer|
-| Carolyn Wine  | Design |
-| Felipe Giuste  | Developer |
-| Henry Abbey  | Developer and QA |
-| Justin Lewis  | Developer |
-| Paul Davis   | Project Manager |
+| Team Members|
+| :------------- |
+| Alex Tubman |
+| Carolyn Wine |
+| Felipe Giuste |
+| Henry Abbey |
+| Justin Lewis |
+| Paul Davis |
 
 **List of Catalog items in final delivery**
 
 ### Special Instructions
-- https://docs.google.com/document/d/1qjfSoGBtX9OQCOOYt641IhM8zF_4QtyfnlM8grGTpbg/edit
+- /NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/Special Instructions.md
 
 ### User Manual
-- https://docs.google.com/document/d/14zWt-2NmVsqAGbs-OVjSrxjjLbAoNwSS8iarHVrTG9c/edit#heading=h.asadr7tskj
+- /NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/
 
 ### Final Gantt Chart
-- link to be provided
+- /NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/Final Gantt Chart – Team_Henry.pd
 
 ### Research
-- https://drive.google.com/drive/u/1/folders/1-hb5R8MTUxhR5j_dklyGrIXnu4R6DMs1
+- /NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/Research
 
-### Other files
-- link to the extra files
 
 ### Link to NutriFHIR in HDAP
 - https://cs6440-s19-prj057.apps.hdap.gatech.edu/dashboard
+
+### Docker-compose.yml
+/NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/docker-compose.yml
+
+
+## Other files
+### Prototypes
+/NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/Prototypes
+
+### Requirements
+	Contains weekly meeting minutes
+/NutriFHIR-Bringing-dietary-indicators-to-the-EHR/Spring2019/Final-Deliverable/Requirements
+
